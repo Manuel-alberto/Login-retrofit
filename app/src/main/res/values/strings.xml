@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login retrofit</string>
+    <string name="description_img_profile">Imagen del perfil de usuario.</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="main_login">Login</string>
+    <string name="main_type_register">Register</string>
+    <string name="main_type_login">Login</string>
+    <string name="main_error_server">Error en la petición</string>
+    <string name="main_profile">Profile</string>
+    <string name="profile_title">User Profile</string>
+    <string name="main_error_response">Error en la respuesta</string>
+</resources>
